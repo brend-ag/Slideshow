@@ -1,2 +1,2 @@
 # Slideshow
-A full-stack webpage that dynamically generates a slideshow with captions by parsing through a directionary of images on the server side. Created with HTML, JS, CS, and PHP. 
+A local full-stack application that dynamically generates a slideshow with captions by parsing through a folder of images on the server side. It was developed with HTML, JS, CS, and PHP on a Windows 10 machine using Google Chrome as the web browser. The slideshow was part of the coursework for CSC 220: Advanced Programming Techniques at Smith College. The application was hosted on a Smith College server with the help of [MAMP](https://www.mamp.info/en/windows/) and [Cyberduck](https://cyberduck.io/).
